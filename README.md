@@ -1,13 +1,12 @@
 # Chamber-Of-Secrets-ITRIX
 Online connections game developed for ITRIX-2022.
 
-# Building And Running the Project
+## Building And Running the Project
 Clone the repo
 ```sh
 git clone https://github.com/CEG-bandITs/itrix-game.git
 ```
 
-## Client
 To start running client
 ```sh
 cd client
